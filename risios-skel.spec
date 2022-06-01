@@ -4,7 +4,7 @@ Release:        %autorelease
 Summary:        risiOS /etc/skel
 License:        GPL3
 URL:            http://risi.io/
-Source0:        https://github.com/risiOS/risi-tweaks/archive/refs/heads/main.tar.gz
+Source0:        https://github.com/risiOS/risios-skel/archive/refs/heads/main.tar.gz
 BuildArch:      noarch
  
  
