@@ -20,8 +20,8 @@ Provides some extra files by default in the home dir.
 cp -a skel %{buildroot}%{_sysconfdir}
 
 %files
-%dir %{_sysconfdir}/skel/.mozilla/.firefox
-%dir %{_sysconfdir}/templates
+%dir %{_sysconfdir}/skel/.mozilla/firefox
+%dir %{_sysconfdir}/skel/templates
  
 %changelog
 %autochangelog
